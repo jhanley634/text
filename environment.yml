@@ -1,0 +1,27 @@
+
+name: text
+
+channels:
+  - conda-forge
+
+dependencies:
+  - flake8 >= 5.0.4
+  - isort >= 5.10.1
+  - jupyter >= 1.0.0
+  - jupytext >= 1.14.0
+  - matplotlib >= 3.5.3
+  - pandas >= 1.4.3
+  - pandas-profiling >= 3.2.0
+  - pip >= 22.2.2
+  - pytest >= 7.1.2
+  - python >= 3.10.5
+  - ruamel.yaml >= 0.17.21
+  - scikit-learn >= 1.1.2
+  - seaborn >= 0.11.2
+  - spacy >= 3.4.1
+  - sqlacodegen >= 2.3.0
+  - sqlalchemy >= 1.4.40
+  - statsmodels >= 0.13.2
+  - streamlit >= 1.12.2
+  - tqdm >= 4.64.0
+  - typer >= 0.4.2
